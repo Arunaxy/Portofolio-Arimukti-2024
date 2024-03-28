@@ -1,0 +1,22 @@
+body {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+
+
+
+.jumbotron {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #e2edff;
+  background-position: center;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
